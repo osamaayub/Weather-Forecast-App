@@ -2,4 +2,7 @@
 
 1) A weather-App that will show the weather of different countries 
 2) Api:Open-Weather Api will be used in this project to fetch the data using data using fetch Api
-3)#  Typescript ,Redux ,CSS 
+3)  Typescript and  Tailwind CSS 
+4)  Open Weather Api in which we used city name to fetch the data
+
+
